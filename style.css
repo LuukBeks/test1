@@ -1,0 +1,19 @@
+h3{
+	text-align: center;
+	color:#4a274a;
+	font-style: oblique;
+}
+h1{
+	text-align: center;
+	color: #4a274a;
+	font-style: italic;
+}
+body {
+	background: url("pexels-photo-235985.jpeg");
+	background-size: cover;
+}
+h3.tekst{
+	width: 49.33%;
+	float: left;
+	
+}
